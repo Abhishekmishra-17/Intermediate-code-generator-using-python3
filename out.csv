@@ -1,0 +1,10 @@
+left,right
+b,c + d + f
+f,b + b
+r,f
+a,10
+s,a + 10
+d,s - 10
+g,10 * d
+j,d * 10
+c,2
