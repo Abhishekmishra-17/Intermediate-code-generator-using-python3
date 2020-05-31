@@ -2,7 +2,7 @@ print("This is program of THREE ADDRESS CODE GENERATOR using Pyhton.\n\f MADE BY
 import pandas as pd
 import copy
 try: 
-    a=pd.read_csv("out.csv")
+    a=pd.read_csv("input.csv")
     print("\a One thing in this program is that it takes an input of csv file.\n\aThe formate of the csv file is in following manner: ")
     print(a)
     print("\a The output of this program is based on above csv file.\n\aYou can take the different input csv file for diffrent required output.")
